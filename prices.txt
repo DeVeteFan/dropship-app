@@ -1,0 +1,8 @@
+item	src	pris		
+magnet laddare	https://www.aliexpress.com/item/32993170141.html?spm=a2g0o.productlist.0.0.1e53614aZlCch6&s=p&algo_pvid=eb603622-48d4-4153-b775-0df9fc0d0ba7&algo_expid=eb603622-48d4-4153-b775-0df9fc0d0ba7-1&btsid=02a676dd-9e5b-4381-b4d5-e4095e3ecbe7&ws_ab_test=searchweb0_0,searchweb201602_3,searchweb201603_53	iOS $1.27	USB-C $1.27	Micro-USB $1.27
+bara magnet	https://www.aliexpress.com/item/32993170141.html?spm=a2g0o.productlist.0.0.1e53614aZlCch6&s=p&algo_pvid=eb603622-48d4-4153-b775-0df9fc0d0ba7&algo_expid=eb603622-48d4-4153-b775-0df9fc0d0ba7-1&btsid=02a676dd-9e5b-4381-b4d5-e4095e3ecbe7&ws_ab_test=searchweb0_0,searchweb201602_3,searchweb201603_53	IOS $0.68	USB-C $0.68	Micro-USB $0.68
+				
+popsocket 	https://www.aliexpress.com/item/4000057776089.html?spm=a2g0o.productlist.0.0.628f7d885SF1JU&algo_pvid=922ec086-4109-470f-8ec5-b7508d8cf2fc&algo_expid=922ec086-4109-470f-8ec5-b7508d8cf2fc-46&btsid=ab90f667-a14c-41b7-a084-03021124b6da&ws_ab_test=searchweb0_0,searchweb201602_3,searchweb201603_53	Silver $1.14	Black $1.14	Gold $0.99
+bil fäste	https://www.aliexpress.com/item/4000058556031.html?spm=2114.12010615.8148356.21.7e306909rrDknI	Black $2.38	Silver $2.24	
+iPhone till 3.5mm	https://www.aliexpress.com/item/33049737498.html?spm=a2g0o.detail.1000023.13.29316c8bcDbyPb	white-blue $0.98	blk-yellow $0.98	
+retro bt högtalare	https://www.aliexpress.com/item/4000386672887.html?spm=a2g0o.productlist.0.0.7eb97c95T724PA&algo_pvid=ba1b835b-dad9-4eeb-a029-35d627468015&algo_expid=ba1b835b-dad9-4eeb-a029-35d627468015-43&btsid=00619535-6a2a-485f-88db-3f5d3451f03d&ws_ab_test=searchweb0_0,searchweb201602_9,searchweb201603_53	blue $5,00		
