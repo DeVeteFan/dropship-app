@@ -6,10 +6,6 @@ body, html, *{
     box-sizing: border-box;
 }
 
-body{
-    height: 1000px !important;
-
-}
 
 .featured{
     display: grid;
@@ -23,8 +19,7 @@ body{
 }
 
 .black-bg{
-    /* background-color: var(--main-dark); */
-    background-color: var(--primary-dark);
+    background-color: var(--primary-background);
     padding: 30px;
 }
 

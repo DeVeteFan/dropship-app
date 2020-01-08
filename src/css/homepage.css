@@ -27,7 +27,7 @@ section{
     width: 150%;
     bottom: -100px;
     left: -50px;
-    background-color: var(--primary-dark);
+    background-color: var(--primary-background);
     transform: rotate(3deg);
     position: absolute;
 }
