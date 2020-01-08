@@ -2,7 +2,7 @@
 
 .hamburger-line{
     height: 6px;
-    background-color: #111;
+    background-color: var(--main-color);
     margin: 4px 0;
     width: 35px;
 }
