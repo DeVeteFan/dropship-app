@@ -1,0 +1,26 @@
+header{
+    background-color: #eee;
+}
+
+h1{
+    font-size: 22px;
+    text-align: center;
+    margin: 0;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    align-items: center;
+    grid-auto-rows: 70px;
+}
+
+.hamburger{
+    justify-self: end;
+    margin-right: 10px;
+}
+
+.search{
+    justify-self: start;
+    margin-left: 10px;
+}
