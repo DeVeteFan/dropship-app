@@ -6,12 +6,12 @@ import Hamburger from './hamburger';
 const NavBar = () => {
     return (
         <header>
-
-            <div className="grid-container">
-                <div className="search">Search</div>
-                <div className="brand"> <h1>Brand</h1></div>
-                <div className="hamburger"><Hamburger /></div>
-
+            <div className="container">
+                <div className="grid-container">
+                    <div className="search">search</div>
+                    <div className="logo"><h1>logo</h1></div>
+                    <div className="hamburger"><Hamburger /></div>
+                </div>
             </div>
         </header >
     );

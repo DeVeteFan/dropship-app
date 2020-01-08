@@ -18,8 +18,6 @@ class Homepage extends Component {
                         <div className="card-primary"></div>
                         <div className="card-primary"></div>
                         <div className="card-primary"></div>
-                        <div className="card-primary"></div>
-                        <div className="card-primary"></div>
                     </div>
                 </div>
             </React.Fragment>

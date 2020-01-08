@@ -21,3 +21,11 @@ body{
     text-align: center;
     align-items: center;
 }
+
+.logo{
+    color: var(--main-color);
+}
+
+.main-color{
+    color: var(--main-color);
+}
