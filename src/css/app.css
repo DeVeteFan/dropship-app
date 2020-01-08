@@ -22,6 +22,12 @@ body{
     align-items: center;
 }
 
+.black-bg{
+    /* background-color: var(--main-dark); */
+    background-color: var(--primary-dark);
+    padding: 30px;
+}
+
 .logo{
     color: var(--main-color);
 }
@@ -29,3 +35,11 @@ body{
 .main-color{
     color: var(--main-color);
 }
+
+.center{
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+  }

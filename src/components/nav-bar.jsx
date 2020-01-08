@@ -9,7 +9,7 @@ const NavBar = () => {
             <div className="container">
                 <div className="grid-container">
                     <div className="search">search</div>
-                    <div className="logo"><h1>logo</h1></div>
+                    <div className="logo"><h1>Logo</h1></div>
                     <div className="hamburger"><Hamburger /></div>
                 </div>
             </div>

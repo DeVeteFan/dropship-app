@@ -1,0 +1,37 @@
+section{
+    position: relative;
+    overflow: hidden;
+}
+
+.flex-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 25px 0;
+}
+
+.card-primary{
+    -webkit-box-shadow: 0px 0px 12px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 12px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px -1px rgba(0,0,0,0.75);
+    border-radius: 5px;
+    height: 300px;
+    width: 450px;
+    margin: 15px;
+    background-color: var(--main-gray);
+    z-index: 10;
+}
+
+.rotated{
+    height: 200px;
+    width: 150%;
+    bottom: -100px;
+    left: -50px;
+    background-color: var(--primary-dark);
+    transform: rotate(3deg);
+    position: absolute;
+}
+
+.showcase{
+    height: 500px;
+}

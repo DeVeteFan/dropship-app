@@ -7,19 +7,32 @@ class Homepage extends Component {
     render() {
         return (
             <React.Fragment>
-                <div className="black-bg">
+                <section className="black-bg">
                     <div className="container">
                         <Featured />
                     </div>
-                </div>
-                <div className="container">
-                    <div className="flex-wrapper">
-                        <div className="card-primary"></div>
-                        <div className="card-primary"></div>
-                        <div className="card-primary"></div>
-                        <div className="card-primary"></div>
+                </section>
+
+                <section>
+                    <div className="container">
+                        <div className="flex-wrapper">
+                            <div className="card-primary"></div>
+                            <div className="card-primary"></div>
+                            <div className="card-primary"></div>
+                            <div className="card-primary"></div>
+                        </div>
                     </div>
-                </div>
+                    <div className="rotated"></div>
+                </section>
+
+                <section className="black-bg">
+                    <div className="container">
+                        <div className="showcase">
+                            <h1 className="center">showcase area</h1>
+                        </div>
+                    </div>
+                </section>
+
             </React.Fragment>
         );
     }
